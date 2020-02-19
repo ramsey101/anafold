@@ -53,4 +53,4 @@ GIT MERGE
 
 cette commande git intervient dans le cas ou voous avez cree plusieurs pour travail desus avec vos collaborateur et que vous desirez les fusionnes ,rien de plus simple avec cette commande git.
 syntaxe:
-git merge <le nom de la branche que vous decirez fusionnez>.
+git merge <le nom de la branche que vous decirez fusionnez>...
