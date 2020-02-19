@@ -22,7 +22,7 @@ Forcer le changement de nom ou le déplacement d'un fichier même si la cible ex
 -k
 Ignorez les actions de déplacement ou de renommage qui entraîneraient une condition d'erreur. Une erreur se produit lorsqu'une source n'est ni existante ni contrôlée par Git, ou lorsqu'elle écraserait un fichier existant, sauf indication contraire -f.
 -n
-- à sec
+-à sec
 Ne fais rien; montrer seulement ce qui se passerait
 -v
 --verbeux
