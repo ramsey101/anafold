@@ -51,3 +51,6 @@ cette commande git intervient dans le cas ou voous avez cree plusieurs pour trav
 syntaxe:
 git merge <le nom de la branche que vous decirez fusionnez>...
 
+
+la creation de user3
+
